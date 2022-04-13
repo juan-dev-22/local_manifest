@@ -1,0 +1,12 @@
+<?versión xml="1.0" codificación="UTF-8"?>
+<manifest>
+
+<!-- Remotes -->
+	<remote name="github" fetch="https://github.com/Astro-World-dev />
+
+
+  <!--Trees-->
+<project path="device/motorola/astro" name="Astro-World-dev/android_device_motorola_astro.git" revision="lineage-18.1" remote="github" />
+<project path="device/motorola/sdm710-common" name="Astro-World-dev/android/device/motorola/sdm710-common.git" revision="lineage-18.1" remote="github"/>
+<project path="vendor/motorola/astro" name="Astro-World-dev/proprietary_vendor_motorola" revision="lineage-18.1" remote="github"  />
+<project path="kernel/motorola/sdm710" name="Astro-World-dev/android_kernel_motorola_sdm710" revision="lineage-18.1" remote="github"  />
